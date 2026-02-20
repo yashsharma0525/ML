@@ -46,7 +46,7 @@ The dataset contains the following features:
 ---
 
 ## 📊 Model Performance
-- **R² Score:** ~0.91  
+- **R² Score:** ~0.99  
 - **MAE:** Mean Absolute Error  
 - **MSE:** Mean Squared Error  
 
